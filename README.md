@@ -5,5 +5,5 @@
 ## Как использовать
 
 1. Склонируйте репозиторий:
-```bash
+```bas
 git clone https://github.com/ваш_никнейм/bird-facts.git
